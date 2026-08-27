@@ -1,0 +1,16 @@
+# Sensitive config - never push these
+config.json
+gmail_credentials.json
+gmail_token.json
+
+# Runtime files
+seen_emails.json
+seen_allocations.json
+shift_bot.log
+screenshots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
