@@ -132,7 +132,7 @@ shift-bot/
 ├── shift_bot.log         # Activity log
 └── screenshots/          # Proof of claims
 ```
-
+jfhjfh
 ---
 
 ## ⚠️ Disclaimer
